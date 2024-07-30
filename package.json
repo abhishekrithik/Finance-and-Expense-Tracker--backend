@@ -2,9 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
-    "start": "nodemon app.js"
-  },
+  
+    "scripts": {
+  "start": "node app.js",
+  "build": "your-build-command-here",
+  "test": "your-test-command-here"
+},
   "author": "",
   "license": "ISC",
   "description": "",
